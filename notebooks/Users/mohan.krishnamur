@@ -1,5 +1,9 @@
--- Databricks notebook source exported at Thu, 15 Sep 2016 01:49:41 UTC
+-- Databricks notebook source exported at Thu, 15 Sep 2016 01:54:27 UTC
 select * from uscites
+
+-- COMMAND ----------
+
+select zip from uscites
 
 -- COMMAND ----------
 
